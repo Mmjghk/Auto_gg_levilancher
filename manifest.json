@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Auto GG Script",
+        "description": "يكتب GG تلقائياً عند نهاية الجيم",
+        "uuid": "7ec53295-5f5c-4e7a-9e2c-3914a1e9415c",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "description": "Script module",
+            "type": "javascript",
+            "uuid": "b2e2d93e-2b1b-4f5c-8a1a-3d2c1b0a9f8e",
+            "version": [1, 0, 0],
+            "entry": "scripts/main.js"
+        }
+    ]
+}
+
